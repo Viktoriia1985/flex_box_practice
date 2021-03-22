@@ -30,7 +30,7 @@
     background: #ffd3c6;
     text-align: center;
     margin: 5px auto;
-/*    padding: 5px;*/
+    /*    padding: 5px;*/
 }
 
 .container {
@@ -46,16 +46,16 @@
     height: 321px;
     background: #f8f6ba;
     text-align: center;
-  /*  margin: 0 auto;*/
-   }
+    /*  margin: 0 auto;*/
+}
 
 .embedded_2 {
     width: 75%;
     height: 321px;
     background: #c2ffff;
     text-align: center;
- /*   margin: 0 auto;
-    padding: 5px;*/
+    /*   margin: 0 auto;
+       padding: 5px;*/
 }
 
 .post {
